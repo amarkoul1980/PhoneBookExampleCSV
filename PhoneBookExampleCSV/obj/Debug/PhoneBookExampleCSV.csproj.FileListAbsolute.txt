@@ -1,0 +1,9 @@
+C:\Users\amark\Desktop\PhoneBookExampleCSV\PhoneBookExampleCSV\bin\Debug\PhoneBookExampleCSV.exe.config
+C:\Users\amark\Desktop\PhoneBookExampleCSV\PhoneBookExampleCSV\bin\Debug\PhoneBookExampleCSV.exe
+C:\Users\amark\Desktop\PhoneBookExampleCSV\PhoneBookExampleCSV\bin\Debug\PhoneBookExampleCSV.pdb
+C:\Users\amark\Desktop\PhoneBookExampleCSV\PhoneBookExampleCSV\obj\Debug\PhoneBookExampleCSV.csprojResolveAssemblyReference.cache
+C:\Users\amark\Desktop\PhoneBookExampleCSV\PhoneBookExampleCSV\obj\Debug\PhoneBookExampleCSV.Form1.resources
+C:\Users\amark\Desktop\PhoneBookExampleCSV\PhoneBookExampleCSV\obj\Debug\PhoneBookExampleCSV.Properties.Resources.resources
+C:\Users\amark\Desktop\PhoneBookExampleCSV\PhoneBookExampleCSV\obj\Debug\PhoneBookExampleCSV.csproj.GenerateResource.Cache
+C:\Users\amark\Desktop\PhoneBookExampleCSV\PhoneBookExampleCSV\obj\Debug\PhoneBookExampleCSV.exe
+C:\Users\amark\Desktop\PhoneBookExampleCSV\PhoneBookExampleCSV\obj\Debug\PhoneBookExampleCSV.pdb
